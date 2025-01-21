@@ -12,7 +12,5 @@
   
 ----------------------------
 
-![TRP family]!
-
 ![image](https://github.com/user-attachments/assets/58e421f4-5656-49b0-8967-1eec7b0a17ee)
 
